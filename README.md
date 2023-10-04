@@ -23,14 +23,14 @@ https://docs.google.com/document/d/16Vn5fUkTFp6gmHykJItJZEsdvoLe-OmkXgEHhO3Yliw/
 	
 
 
-  2. **Tuesday 10/11** Morning session : guided hands-on(9:30 - 13:00)
+  2. **Tuesday 10/11** Morning session : guided hands-on (9:30 - 13:00)
 
     * 9:30 - 10.10 Read data / describe probe / launching a sorter (40min) SG
     * 10:10 - 10:40 Preprocessing (filtrage/destriping/artifact removal/referencing) (30min) PY
     * 10:40 - 11:10 Post processing /quality metrics : remove bad units (30min)
     * Break for starting social interaction
     * 11:30 - 12:10 Visualization the many way of SpikeInterface (40min) SG
-    * 12:10 - 12:30 Motion correction principle (20min)  PY
+    * 12:10 - 12:30 Motion correction principle (20min) PY
     * 12:30 - 12:50 Which sorter to choose: make a benchmark (20min)  PY
 
 
@@ -40,5 +40,3 @@ https://docs.google.com/document/d/16Vn5fUkTFp6gmHykJItJZEsdvoLe-OmkXgEHhO3Yliw/
     * 15:00 - 16:00 Hands on with provided dataset
     * Break to decide where to go for a drink
     * 16:15 - 17:30 Hands on your own dataset.
-
-    
