@@ -4,11 +4,30 @@ Here a collection of notebook to discover many ascpect of spikeinterface.
 It is a mix between tutorial, short practice and handson.
 
 
+## Upgrade your spikeinterface
+
+You will need to update your spikeinterface package with the source installation.
+
+```
+conda activate si_env
+pip install --upgrade git+https://github.com/SpikeInterface/spikeinterface.git@main
+```
+
+or
+
+```
+conda activate si_env
+pip install --upgrade https://github.com/SpikeInterface/spikeinterface/archive/main.zip
+```
+
+
 ## other link
 
 Dataset can be download here in this drive:
 
 https://docs.google.com/document/d/16Vn5fUkTFp6gmHykJItJZEsdvoLe-OmkXgEHhO3Yliw/edit?usp=sharing
+
+
 
 
 ## program
